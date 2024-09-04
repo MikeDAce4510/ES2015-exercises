@@ -20,7 +20,7 @@ const instructor = {
 
 //Objects Methods
 
-const instructor = {
+const teacher = {
     firstName: "Colt",
     sayHi(){
         return "Hi!";
